@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Contoh program Streamlit")
+st.title("Contoh program Streamlit Azkt fthr umam")
 
 with st.form(key='my_form'):
     nama = st.text_input(label='Nama lengkap')
